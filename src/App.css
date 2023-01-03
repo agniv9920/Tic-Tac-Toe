@@ -1,0 +1,24 @@
+*{
+  background: lightsteelblue;
+  /*margin-left: auto;
+  margin-right: auto;*/
+}
+.board-row{
+  text-align: center;
+  /*vertical-align: center;*/
+}
+.status{
+  text-align: center;
+  /*vertical-align: center;*/
+}
+.square{
+  height: 50px;
+  width: 50px;
+  color: blue;
+  background-color: gray;
+}
+.game-info{
+  text-align: center;
+  margin-left: 450px;
+  top: 2500px;
+}
